@@ -1,4 +1,4 @@
-n = int(input())
+n = int(input("Favor dígite su número: "))
 i = 0
 num = []
 while i < n:
